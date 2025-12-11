@@ -14,7 +14,7 @@ service:
 
 resources: {}
 
-namespace: u16
+namespace: u9
 
 env:
   APP_PORT: 5000
